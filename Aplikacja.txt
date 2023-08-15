@@ -3,3 +3,9 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+   public void logowanieMIcrosoft() {
+        System.out.println("Podaj nazwę użytkownika microsoft");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
