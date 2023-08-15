@@ -13,3 +13,7 @@
         System.out.println("Podaj nazwę gmaila");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
+
+public void przypomnijHaslo() {
+	 System.out.println("Kliknij na przycisk przypomnij haslo");
+}
